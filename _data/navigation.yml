@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "CS지식"
-    url: /computerscience
+   - title: "CS지식"
+     url: /computerscience
    - title: "About"
      url: https://mmistakes.github.io/minimal-mistakes/about/
    - title: "Sample Posts"
